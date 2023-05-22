@@ -7,7 +7,7 @@
 </div>
 	
 ### Tecnologias	
-<div style="display: inline_block">
+<!--<div style="display: inline_block">
 <img align="center" alt="Júlio Rossato-HTML5" height="30" width="40" src="https://juliorossato.com.br/img/html5-plain-wordmark.svg">
 <img align="center" alt="Júlio Rossato-CCS3" height="30" width="40" src="https://juliorossato.com.br/img/css3-plain-wordmark.svg">
 <img align="center" alt="Júlio Rossato-PHP" height="30" width="40" src="https://juliorossato.com.br/img/php-plain.svg">
@@ -16,7 +16,7 @@
 <img align="center" alt="Júlio Rossato-Bootstrap" height="30" width="40" src="https://juliorossato.com.br/img/bootstrap-plain-wordmark.svg">
 <img align="center" alt="Júlio Rossato-MySql" height="30" width="40" src="https://juliorossato.com.br/img/mysql-original-wordmark.svg">
 <img align="center" alt="Júlio Rossato-Linux" height="30" width="40" src="https://juliorossato.com.br/img/linux-original.svg">
-
+-->
 
 	
 	
