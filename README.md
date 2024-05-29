@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/fabianoobispo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabianoobispo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoobispo&layout=compact&theme=react&langs_count=5&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabianoobispo1&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoobispo1&layout=compact&theme=react&langs_count=5&theme=dracula"/>
 </div>
 	
 ### Tecnologias	
@@ -26,6 +26,6 @@
   ## Contato
  
 <div> 
-  <a href="https://instagram.com/fabianoobispo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/fabianoobispo1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabiano-bispo-canedo-422738109/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
