@@ -27,6 +27,4 @@
   <a href="https://www.linkedin.com/in/fabiano-bispo-canedo-422738109/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-
 <a href="https://app.rocketseat.com.br/me/fabianoobispo"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fabianoobispo&type=card" width="280" alt="Fabiano Bispo's Rocket ID"/></a>
