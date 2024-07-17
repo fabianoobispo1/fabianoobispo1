@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Fabiano Bispo
 
+<a href="https://app.rocketseat.com.br/me/fabianoobispo"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fabianoobispo&type=card" width="280" alt="Fabiano Bispo's Rocket ID"/></a>
+
 <div>
   <a href="https://github.com/fabianoobispo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabianoobispo1&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
