@@ -28,6 +28,5 @@
 </div>
 
 
-<a href="https://app.rocketseat.com.br/me/fabianoobispo"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fabianoobispo&type=card" width="280" alt="Fabiano Bispo's Rocket ID"/></a>
 
-	
+<a href="https://app.rocketseat.com.br/me/fabianoobispo"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=fabianoobispo&type=card" width="280" alt="Fabiano Bispo's Rocket ID"/></a>
